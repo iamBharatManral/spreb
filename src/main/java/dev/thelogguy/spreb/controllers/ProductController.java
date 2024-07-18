@@ -1,6 +1,6 @@
 package dev.thelogguy.spreb.controllers;
 
-import dev.thelogguy.spreb.ProductService;
+import dev.thelogguy.spreb.services.ProductService;
 import dev.thelogguy.spreb.models.Product;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

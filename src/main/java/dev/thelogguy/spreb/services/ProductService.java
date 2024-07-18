@@ -1,4 +1,4 @@
-package dev.thelogguy.spreb;
+package dev.thelogguy.spreb.services;
 
 import dev.thelogguy.spreb.models.Product;
 import org.springframework.stereotype.Service;
